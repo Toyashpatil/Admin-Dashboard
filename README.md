@@ -5,6 +5,6 @@ Technologies used:-
 2. javascript
 3. node.js
 4. tailwindcss
-5. syncfunction
+5. syncfusion
 6. css
 7. html
